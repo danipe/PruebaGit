@@ -8,7 +8,7 @@ public class PruGit {
     public static void main(String args[])
     {
         String ch;
-        TresEnRaya Toe=new TresEnRaya();
+        PruGit Toe=new PruGit();
         do{
         	Toe.getTitle();
             Toe.newBoard();
